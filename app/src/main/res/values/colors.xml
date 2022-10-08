@@ -9,4 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="plus_button_color">#E91E63</color>
     <color name="minus_button_color">#2196F3</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#002BFF</color>
+    <color name="yellow">#FFD400</color>
+    <color name="green">#29AC11</color>
 </resources>

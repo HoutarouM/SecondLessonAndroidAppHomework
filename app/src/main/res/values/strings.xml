@@ -2,4 +2,8 @@
     <string name="app_name">test</string>
     <string name="plus">+</string>
     <string name="minus">-</string>
+    <string name="red_btn">red</string>
+    <string name="blue_btn">blue</string>
+    <string name="yellow_btn">yellow</string>
+    <string name="green_btn">green</string>
 </resources>
