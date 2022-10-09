@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecondLessonHomeworkExerciseThree</string>
+    <string name="wrong_answer">Wrong Answer</string>
+    <string name="correct_answer">Correct Answer</string>
+</resources>

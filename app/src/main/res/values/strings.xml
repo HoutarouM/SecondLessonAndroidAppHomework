@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecondLessonHomeworkExerciseThree</string>
+    <string name="question" translatable="false">2+2=?</string>
+    <string name="_answer_1" translatable="false">2</string>
+    <string name="_answer_2" translatable="false">4</string>
+    <string name="_answer_3" translatable="false">5</string>
+    <string name="wrong_answer">Zla odpowiedz</string>
+    <string name="correct_answer">Dobra odpowiedz</string>
+</resources>
